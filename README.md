@@ -1,6 +1,2 @@
-3
-# Smile
-The starting version of the smile cafe 
-## this is my update
-*123
-**rrrr
+hello world!
+This is tavish's update
